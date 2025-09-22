@@ -33,6 +33,5 @@ Looking for a cybersecurity or secure development internship to:
 
 ## Contact
 
-- Email: your.email@example.com  
-- GitHub: [Your GitHub](https://github.com/votre-compte)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- Email: hutavalentin@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/valentin-huta-773802354/

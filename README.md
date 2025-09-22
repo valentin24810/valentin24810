@@ -3,6 +3,17 @@
 2nd-year Computer Science Student – Cybersecurity Track  
 Passionate about programming and system security
 
+## Skills
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="80" height="80"/>
+</p>
+
 ---
 ## Skills
 
